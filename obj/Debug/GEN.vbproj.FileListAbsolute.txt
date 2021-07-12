@@ -1,0 +1,10 @@
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.vbproj.GenerateResource.Cache
+D:\Projetos\VB\Concluídos\GEN\bin\Debug\GEN.exe
+D:\Projetos\VB\Concluídos\GEN\bin\Debug\GEN.pdb
+D:\Projetos\VB\Concluídos\GEN\bin\Debug\GEN.xml
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.PRV.resources
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.PSW.resources
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.Resources.resources
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.exe
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.xml
+D:\Projetos\VB\Concluídos\GEN\obj\Debug\GEN.pdb

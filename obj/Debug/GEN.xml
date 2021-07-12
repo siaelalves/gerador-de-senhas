@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GEN
+</name>
+</assembly>
+<members>
+<member name="T:GEN.GEN.Complexidade">
+	<summary>
+ Lista os valores de complexidade para a senha.
+ </summary>
+</member><member name="M:GEN.GEN.GerarCaractereAleatório(System.Char,System.Char)">
+	<summary>
+ Retorna um caractere aleatoriamente conforme os requisitos
+ de complexidade
+ </summary>
+	<returns></returns>
+	<param name="CaractereInicial">Primeiro caractere da sequência ASCII de símbolos.</param>
+	<param name="CaractereFinal">Último caractere da sequência ASCII de símbolos.</param>
+	<remarks></remarks>
+</member><member name="P:GEN.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:GEN.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:GEN.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

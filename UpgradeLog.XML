@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GeradorDeSenhas">
+</Property><Property Name="Solution File" Value="D:\Projetos\VB\Templates\GeradorDeSenhas\GeradorDeSenhas.sln">
+</Property><Property Name="User Options File" Value="D:\Projetos\VB\Templates\GeradorDeSenhas\GeradorDeSenhas.suo">
+</Property><Property Name="Date" Value="quarta-feira, 9 de outubro de 2013">
+</Property><Property Name="Time" Value="15:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GeradorDeSenhas.sln" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\GeradorDeSenhas.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GeradorDeSenhas.suo" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\GeradorDeSenhas.suo">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="GeradorDeSenhas.vbproj" Description="Project file successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\GeradorDeSenhas.vbproj">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="GeradorDeSenhas.vbproj.user" Description="Project user file successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\GeradorDeSenhas.vbproj.user">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="PRV.Designer.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\PRV.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="PRV.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\PRV.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="PSW.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\PSW.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="PSW.Designer.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\PSW.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\Application.myapp" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\Settings.settings" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="psw.ico" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\psw.ico">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="pswfile.ico" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\pswfile.ico">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="PRV.resx" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\PRV.resx">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="PSW.resx" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\PSW.resx">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="My Project\Resources.resx" Description="File successfully backed up as D:\Projetos\VB\Templates\GeradorDeSenhas\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="GeradorDeSenhas.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GeradorDeSenhas" Source="GeradorDeSenhas.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GeradorDeSenhas.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GeradorDeSenhas.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GeradorDeSenhas" Source="GeradorDeSenhas.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

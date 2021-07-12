@@ -1,0 +1,23 @@
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.PSW.resources
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.Resources.resources
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.vbproj.GenerateResource.Cache
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\bin\Release\Gerador de senhas.exe
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\bin\Release\Gerador de senhas.pdb
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\bin\Release\Gerador de senhas.xml
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\Gerador de senhas.exe
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\Gerador de senhas.xml
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\Gerador de senhas.pdb
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.PRV.resources
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\Gerador de senhas.exe
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\Gerador de senhas.xml
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\Gerador de senhas.pdb
+D:\Projetos\VB\Templates\GeradorDeSenhas\bin\Release\Gerador de senhas.exe
+D:\Projetos\VB\Templates\GeradorDeSenhas\bin\Release\Gerador de senhas.pdb
+D:\Projetos\VB\Templates\GeradorDeSenhas\bin\Release\Gerador de senhas.xml
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.PRV.resources
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.PSW.resources
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\GeradorDeSenhas.Resources.resources
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\GeradorDeSenhas\obj\Release\GenerateResource.write.1.tlog

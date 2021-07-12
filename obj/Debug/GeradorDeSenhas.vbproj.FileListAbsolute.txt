@@ -1,0 +1,11 @@
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.PSW.resources
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Resources.resources
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.vbproj.GenerateResource.Cache
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\bin\Debug\Gerador de senhas.exe
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\bin\Debug\Gerador de senhas.pdb
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\bin\Debug\Gerador de senhas.xml
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\Gerador de senhas.exe
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\Gerador de senhas.xml
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\Gerador de senhas.pdb
+D:\E\Project\Visual Basic\Templates\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.PRV.resources
