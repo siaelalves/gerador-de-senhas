@@ -5,3 +5,5 @@ Este programa gera senhas aleatórias para você usar. Basta clicar em 'Gerar' q
 Ao usar a opção para gerar várias senhas, ele abrirá uma janela para você poder imprimir essas senhas.
 O objetivo é apenas gerar uma senha aleatória de caracteres. Você também tem a opção de salvar a sua senha num arquivo de extensão ".cd".
 Este arquivo está criptografado, mas acredito que você entenderá rapidamente a chave da criptografia olhando os códigos.
+Embora o aplicativo possua referências a licenças de uso de software, você pode usá-lo como achar conveniente.
+Eu pretendia vendê-lo, mas não tenho condições de divulgar o projeto. Mas você tem.
